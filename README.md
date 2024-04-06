@@ -1,7 +1,7 @@
 # G2
 G2 - Hackathon, 2024
 
-#Problem Statement 1 
+# Problem Statement 1 
 G2 is the largest software marketplace in the world, with over 165,000 listed 
 products and real reviews. Our mission is to help every software buyer make 
 informed purchasing decisions. To achieve this, we want all B2B software products to 
