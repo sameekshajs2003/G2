@@ -13,3 +13,6 @@ Computer Science graduate, we would like you to develop a system that periodical
 identifies new GA products (daily, weekly, or monthly), checks their availability on G2 
 using the API provided below, and provides a list of any products that are not yet 
 listed on G2 (this could be in a database or a CSV file). 
+
+# About this Script
+This script retrieves emails from a Gmail inbox, extracts product names from Google Alerts emails, checks if these products are listed on G2, and saves the list of products not listed on G2 to a CSV file.
