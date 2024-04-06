@@ -14,5 +14,17 @@ identifies new GA products (daily, weekly, or monthly), checks their availabilit
 using the API provided below, and provides a list of any products that are not yet 
 listed on G2 (this could be in a database or a CSV file). 
 
-# About this Script
+# About the Script (G2.py)
 This script retrieves emails from a Gmail inbox, extracts product names from Google Alerts emails, checks if these products are listed on G2, and saves the list of products not listed on G2 to a CSV file.
+
+## Features
+
+- Connects to a Gmail inbox using IMAP.
+- Parses emails from Google Alerts to extract product names.
+- Utilizes the G2 API to check if products are listed on G2.
+- Saves products not listed on G2 to a CSV file.
+
+## Prerequisites
+
+- Python 3.x installed on your system.
+- Required Python libraries installed: `imaplib`, `email`, `bs4`, `json`, `requests`, `csv`.
