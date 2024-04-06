@@ -31,8 +31,8 @@ This script retrieves emails from a Gmail inbox, extracts product names from Goo
 
 ## Configuration
 
-IMAP_SERVER: IMAP server address (e.g., for Gmail, use 'imap.gmail.com').
-IMAP_PORT: Port number for IMAP server (e.g., for Gmail with SSL, use 993).
-EMAIL: Your email address.
-PASSWORD: Your email password.
-G2_API_TOKEN: Your G2 API token.
+- IMAP_SERVER: IMAP server address (e.g., for Gmail, use 'imap.gmail.com').
+- IMAP_PORT: Port number for IMAP server (e.g., for Gmail with SSL, use 993).
+- EMAIL: Your email address.
+- PASSWORD: Your email password.
+- G2_API_TOKEN: Your G2 API token.
